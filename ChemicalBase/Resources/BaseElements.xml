@@ -1754,9 +1754,9 @@
   <Element>
     <name>мейтнерий</name>
     <symbol>Mt</symbol>
-    <number>110</number>
+    <number>109</number>
     <period>7</period>
-    <group>8</group>
+    <group>9</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
@@ -1766,86 +1766,86 @@
     <scientists>Г. Мюнценберг</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Дармштадий</name>
+    <symbol>Ds</symbol>
     <number>110</number>
     <period>7</period>
-    <group>8</group>
+    <group>10</group>
     <subgroup>Б</subgroup>
-    <atomic_mass>266</atomic_mass>
+    <atomic_mass>281</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
+    <latin_name>Ununnillium</latin_name>
     <opening_year>1987</opening_year>
     <scientists>Г. Мюнценберг</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Рентгений</name>
+    <symbol>Rg</symbol>
     <number>111</number>
     <period>7</period>
-    <group>8</group>
+    <group>11</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
-    <opening_year>1987</opening_year>
-    <scientists>Г. Мюнценберг</scientists>
+    <latin_name>Unununium</latin_name>
+    <opening_year>1991</opening_year>
+    <scientists>С. Хофман</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Коперниций</name>
+    <symbol>Cn</symbol>
     <number>112</number>
     <period>7</period>
-    <group>8</group>
+    <group>12</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
-    <opening_year>1987</opening_year>
-    <scientists>Г. Мюнценберг</scientists>
+    <latin_name>Ununbium</latin_name>
+    <opening_year>1971</opening_year>
+    <scientists>С. Хофман</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Нихоний</name>
+    <symbol>Nh</symbol>
     <number>113</number>
     <period>7</period>
-    <group>8</group>
+    <group>13</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
+    <latin_name>Nihonium</latin_name>
     <opening_year>1987</opening_year>
     <scientists>Г. Мюнценберг</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Флероовий</name>
+    <symbol>Fl</symbol>
     <number>114</number>
     <period>7</period>
-    <group>8</group>
+    <group>14</group>
     <subgroup>Б</subgroup>
-    <atomic_mass>266</atomic_mass>
+    <atomic_mass>287</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
-    <opening_year>1987</opening_year>
-    <scientists>Г. Мюнценберг</scientists>
+    <latin_name>Flerovium</latin_name>
+    <opening_year>1998</opening_year>
+    <scientists>Ю. Ц. Оганесян</scientists>
   </Element>
   <Element>
-    <name>мейтнерий</name>
-    <symbol>Mt</symbol>
+    <name>Московий</name>
+    <symbol>Mc</symbol>
     <number>115</number>
     <period>7</period>
-    <group>8</group>
+    <group>15</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
-    <latin_name>Meitnerium</latin_name>
+    <latin_name>Moscovium</latin_name>
     <opening_year>1987</opening_year>
     <scientists>Г. Мюнценберг</scientists>
   </Element>

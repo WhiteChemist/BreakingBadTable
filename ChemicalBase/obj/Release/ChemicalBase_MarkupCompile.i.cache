@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Project\BreakingBadTable\ChemicalBase\obj\Debug\
+E:\Project\BreakingBadTable\ChemicalBase\obj\Release\
 ChemicalBase
 none
 false
-DEBUG;TRACE
+TRACE
 E:\Project\BreakingBadTable\ChemicalBase\App.xaml
 41001258000
 
-13-1396731780
+13-1631951245
 13-1505183044
 Elements\TestControl_v2.xaml;Elements\UserControl3.xaml;ElementWindows.xaml;MainWindow.xaml;
 
-True
+False
 

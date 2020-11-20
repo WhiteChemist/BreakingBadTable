@@ -19,7 +19,7 @@ namespace ChemicalBase.Libraries
             {
                 if (txt is TestControl_v2)
                 {
-                    if(ExtractNumber(txt.Name)==118)
+                    if (ExtractNumber(txt.Name) == 118)
                     {
                         var temp = ExtractNumber(txt.Name);
                         txt.DataContext = elements[--temp];
@@ -33,7 +33,7 @@ namespace ChemicalBase.Libraries
                         catch (System.Exception ex)
                         {
 
-                            throw ex;
+                            MessageBox.Show(ex.Message, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                         }
                     }
                 }
@@ -50,19 +50,3 @@ namespace ChemicalBase.Libraries
         }
     }
 }
-
-
-//Border al;
-//if (txt != null)
-//    al = (Border)txt.FindName("vb1");
-//if (txt is TestControl_v2)
-//{
-//    if (regex.IsMatch(txt.Name) && txt.Name.Contains(counter.ToString()))
-//    {
-
-//        var Elem = txt.c;
-//        var Numb = (TextBlock)txt.FindName("Numb");
-//        Elem.Text = elements[counter].name;
-//        Numb.Text = elements[counter].number.ToString();
-//    }
-//}

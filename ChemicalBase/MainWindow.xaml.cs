@@ -31,7 +31,7 @@ namespace ChemicalBase
             InitializeComponent();
             Extractor extractor = new Extractor();
             filler = new Filler();
-            elements = extractor.Extract(Directory.GetCurrentDirectory() + "/Resources/BaseElements.xml");
+            elements = extractor.Extract(Directory.GetCurrentDirectory() + "\\Resources\\BaseElements.xml");
             filler.FillForm(this, elements);
             InitControls();
         }

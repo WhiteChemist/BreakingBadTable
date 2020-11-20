@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Elements>
   <Element>
+    <name>водород</name>
+    <symbol>H</symbol>
+    <number>1</number>
+    <period>1</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>1.00794</atomic_mass>
+    <electronic_configuration>1s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Hydrogenium</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <opening_year>1766</opening_year>
+    <scientists>Г. Кавендиш</scientists>
+    <melting_temperature>-259.1</melting_temperature>
+    <boiling_temperature>-252.61</boiling_temperature>
+  </Element>
+  <Element>
+    <name>Гелий</name>
+    <symbol>He</symbol>
+    <number>2</number>
+    <period>1</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>4.002602</atomic_mass>
+    <electronic_configuration>1s</electronic_configuration>
+    <element_type>p</element_type> //Вид элемента
+    <latin_name>Helium</latin_name>
+    <electronegativity>12.3</electronegativity>//electronegativity
+    <opening_year>1868</opening_year>
+    <scientists>П. Жансен</scientists>
+    <melting_temperature>-272.2</melting_temperature>//температура плавления
+    <boiling_temperature>-268.93</boiling_temperature>//температура кипения
+  </Element>
+  <Element>
+    <name>литий</name>
+    <symbol>Li</symbol>
+    <number>3</number>
+    <period>2</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>6.941</atomic_mass>
+    <electronic_configuration>2s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Lithium</latin_name>
+    <electronegativity>0.95</electronegativity>
+    <opening_year>1817</opening_year>
+    <scientists>И. Арфведсон</scientists>
+    <melting_temperature>180.54</melting_temperature>
+    <boiling_temperature>1340</boiling_temperature>
+  </Element>
+  <Element>
     <name>берилий</name>
     <symbol>Be</symbol>
     <number>4</number>
@@ -1320,9 +1371,9 @@
     <boiling_temperature>949</boiling_temperature>
   </Element>
   <Element>
-    <name>гелий</name>
-    <symbol>He</symbol>
-    <number>2</number>
+    <name>Астат</name>
+    <symbol>At</symbol>
+    <number>85</number>
     <period>1</period>
     <group>8</group>
     <subgroup>А</subgroup>
@@ -1607,38 +1658,28 @@
     <scientists>Г. Сиборг</scientists>
   </Element>
   <Element>
-    <name>водород</name>
-    <symbol>H</symbol>
-    <number>1</number>
-    <period>1</period>
-    <group>1</group>
-    <subgroup>А</subgroup>
-    <atomic_mass>1.00794</atomic_mass>
-    <electronic_configuration>1s1</electronic_configuration>
-    <element_type>s</element_type>
-    <latin_name>Hydrogenium</latin_name>
-    <electronegativity>2.1</electronegativity>
-    <opening_year>1766</opening_year>
-    <scientists>Г. Кавендиш</scientists>
-    <melting_temperature>-259.1</melting_temperature>
-    <boiling_temperature>-252.61</boiling_temperature>
+    <name>Нобелий</name>
+    <symbol>No</symbol>
+    <number>102</number>
+    <atomic_mass>256</atomic_mass>
+    <electronic_configuration>5f13 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Mendelevium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1955</opening_year>
+    <scientists>Г. Сиборг</scientists>
   </Element>
   <Element>
-    <name>литий</name>
-    <symbol>Li</symbol>
-    <number>3</number>
-    <period>2</period>
-    <group>1</group>
-    <subgroup>А</subgroup>
-    <atomic_mass>6.941</atomic_mass>
-    <electronic_configuration>2s1</electronic_configuration>
-    <element_type>s</element_type>
-    <latin_name>Lithium</latin_name>
-    <electronegativity>0.95</electronegativity>
-    <opening_year>1817</opening_year>
-    <scientists>И. Арфведсон</scientists>
-    <melting_temperature>180.54</melting_temperature>
-    <boiling_temperature>1340</boiling_temperature>
+    <name>Лоуренсий</name>
+    <symbol>Lr</symbol>
+    <number>103</number>
+    <atomic_mass>256</atomic_mass>
+    <electronic_configuration>5f13 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Mendelevium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1955</opening_year>
+    <scientists>Г. Сиборг</scientists>
   </Element>
   <Element>
     <name>резерфордий</name>
@@ -1715,12 +1756,96 @@
     <symbol>Mt</symbol>
     <number>109</number>
     <period>7</period>
-    <group>8</group>
+    <group>9</group>
     <subgroup>Б</subgroup>
     <atomic_mass>266</atomic_mass>
     <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
     <element_type>d</element_type>
     <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>Дармштадий</name>
+    <symbol>Ds</symbol>
+    <number>110</number>
+    <period>7</period>
+    <group>10</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>281</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Ununnillium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>Рентгений</name>
+    <symbol>Rg</symbol>
+    <number>111</number>
+    <period>7</period>
+    <group>11</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Unununium</latin_name>
+    <opening_year>1991</opening_year>
+    <scientists>С. Хофман</scientists>
+  </Element>
+  <Element>
+    <name>Коперниций</name>
+    <symbol>Cn</symbol>
+    <number>112</number>
+    <period>7</period>
+    <group>12</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Ununbium</latin_name>
+    <opening_year>1971</opening_year>
+    <scientists>С. Хофман</scientists>
+  </Element>
+  <Element>
+    <name>Нихоний</name>
+    <symbol>Nh</symbol>
+    <number>113</number>
+    <period>7</period>
+    <group>13</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Nihonium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>Флероовий</name>
+    <symbol>Fl</symbol>
+    <number>114</number>
+    <period>7</period>
+    <group>14</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>287</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Flerovium</latin_name>
+    <opening_year>1998</opening_year>
+    <scientists>Ю. Ц. Оганесян</scientists>
+  </Element>
+  <Element>
+    <name>Московий</name>
+    <symbol>Mc</symbol>
+    <number>115</number>
+    <period>7</period>
+    <group>15</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Moscovium</latin_name>
     <opening_year>1987</opening_year>
     <scientists>Г. Мюнценберг</scientists>
   </Element>
