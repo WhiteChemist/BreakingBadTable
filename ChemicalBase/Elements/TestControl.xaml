@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="ChemicalBase.Elements.UserControl3"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChemicalBase.Elements"
+             mc:Ignorable="d" MinHeight="78" MinWidth="90" MaxHeight="78" MaxWidth="90">
+    <WrapPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" ItemWidth="90">
+        <Border Background="White">
+            <Grid Height="67" Width="auto" Background="#FF58B26D" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1"
+                                       Grid.Row="1"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       Foreground="White"
+                                       FontSize="35"
+                                       TextAlignment="Center"><Run Text="A"/></TextBlock>
+                <TextBlock Grid.Column="0"
+                                       Grid.Row="1"
+                                       Grid.ColumnSpan="2"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Left"
+                                       Foreground="White"
+                                       FontSize="11"
+                                       TextAlignment="Center" Height="20" Margin="0,46,0,-5" Grid.RowSpan="2"><Run Text="11111"/></TextBlock>
+            </Grid>
+        </Border>
+    </WrapPanel>
+
+</UserControl>

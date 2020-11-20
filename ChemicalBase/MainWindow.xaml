@@ -1,0 +1,209 @@
+﻿<Window x:Class="ChemicalBase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:control ="clr-namespace:ChemicalBase.Elements"
+        mc:Ignorable="d"
+        Title="ChemicalBase" Height="646" Width="929.5" BorderBrush="DarkGreen" BorderThickness="2" FontFamily="Times New Roman" FontSize="20" HorizontalAlignment="Center" ResizeMode="NoResize" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource >
+                <BitmapImage UriSource="/Resources/Background.jpg"></BitmapImage>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Viewbox HorizontalAlignment="Center" Stretch="Fill">
+        <Grid x:Name="maingrid"  ShowGridLines="False" Height="611" Width="898">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MaxWidth="30" MinWidth="15"/>
+                <ColumnDefinition Width="47" MaxWidth="48"/>
+                <ColumnDefinition Width="53" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="50" MaxWidth="48"/>
+                <ColumnDefinition Width="58" MaxWidth="20" MinWidth="15"/>
+            </Grid.ColumnDefinitions>
+            <control:TestControl_v2 x:Name="element_1" Grid.Row="1" Height="Auto" Width="Auto" Grid.Column="1"/>
+            <control:TestControl_v2 x:Name="element_3" Grid.Column="1" Grid.Row="2" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_11" Grid.Column="1" Grid.Row="3" Height="Auto" Width="Auto" />
+            <control:TestControl_v2 x:Name="element_19" Grid.Column="1" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_37" Grid.Column="1" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_55" Grid.Column="1" Grid.Row="6" Height="Auto" Width="Auto" />
+            <control:TestControl_v2 x:Name="element_87" Grid.Column="1" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_4"  Grid.Column="2" Grid.Row="2" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_12"  Grid.Column="2" Grid.Row="3" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_20"  Grid.Column="2" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_38"  Grid.Column="2" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_56"  Grid.Column="2" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_88"  Grid.Column="2" Grid.Row="7" Height="Auto" Width="Auto" />
+
+            <control:TestControl_v2 x:Name="element_21"  Grid.Column="3" Grid.Row="4"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_39"  Grid.Column="3" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_71"  Grid.Column="3" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_103"  Grid.Column="3" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_22"  Grid.Column="4" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_40"  Grid.Column="4" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_72"  Grid.Column="4" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_104"  Grid.Column="4" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_23"  Grid.Column="5" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_41"  Grid.Column="5" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_73"  Grid.Column="5" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_105"  Grid.Column="5" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_24"  Grid.Column="6" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_42"  Grid.Column="6" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_74"  Grid.Column="6" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_106"  Grid.Column="6" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_25"  Grid.Column="7" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_43"  Grid.Column="7" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_75"  Grid.Column="7" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_107"  Grid.Column="7" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_26"  Grid.Column="8" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_44"  Grid.Column="8" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_76"  Grid.Column="8" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_108"  Grid.Column="8" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_27"  Grid.Column="9" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_45"  Grid.Column="9" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_77"  Grid.Column="9" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_109"  Grid.Column="9" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_28"  Grid.Column="10" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_46"  Grid.Column="10" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_78"  Grid.Column="10" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_110"  Grid.Column="10" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_29"  Grid.Column="11" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_47"  Grid.Column="11" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_79"  Grid.Column="11" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_111"  Grid.Column="11" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_30"  Grid.Column="12" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_48"  Grid.Column="12" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_80"  Grid.Column="12" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_112"  Grid.Column="12" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_5"  Grid.Column="13" Grid.Row="2"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_13"  Grid.Column="13" Grid.Row="3" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_31"  Grid.Column="13" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_49"  Grid.Column="13" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_81"  Grid.Column="13" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_113"  Grid.Column="13" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_6"  Grid.Column="14" Grid.Row="2"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_14"  Grid.Column="14" Grid.Row="3" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_32"  Grid.Column="14" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_50"  Grid.Column="14" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_82"  Grid.Column="14" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_114"  Grid.Column="14" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_7"  Grid.Column="15" Grid.Row="2" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_15"  Grid.Column="15" Grid.Row="3" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_33"  Grid.Column="15" Grid.Row="4" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_51"  Grid.Column="15" Grid.Row="5" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_83"  Grid.Column="15" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_115"  Grid.Column="15" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_8"  Grid.Column="16" Grid.Row="2" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_16"  Grid.Column="16" Grid.Row="3" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_34"  Grid.Column="16" Grid.Row="4"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_52"  Grid.Column="16" Grid.Row="5" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_84"  Grid.Column="16" Grid.Row="6" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_116"  Grid.Column="16" Grid.Row="7" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_9"  Grid.Column="17" Grid.Row="2"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_17"  Grid.Column="17" Grid.Row="3" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_35"  Grid.Column="17" Grid.Row="4" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_53"  Grid.Column="17" Grid.Row="5" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_85"  Grid.Column="17" Grid.Row="6" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_117"  Grid.Column="17" Grid.Row="7" Height="Auto"  Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_2"  Grid.Column="18" Grid.Row="1" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_10"  Grid.Column="18" Grid.Row="2"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_18"  Grid.Column="18" Grid.Row="3" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_36"  Grid.Column="18" Grid.Row="4" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_54"  Grid.Column="18" Grid.Row="5" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_86"  Grid.Column="18" Grid.Row="6" Height="Auto"  Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_118"  Grid.Column="18" Grid.Row="7" Height="Auto"  Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_57"  Grid.Column="4" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_89"  Grid.Column="4" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_58"  Grid.Column="5" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_90"  Grid.Column="5" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_59"  Grid.Column="6" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_91"  Grid.Column="6" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_60"  Grid.Column="7" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_92"  Grid.Column="7" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_61"  Grid.Column="8" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_93"  Grid.Column="8" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_62"  Grid.Column="9" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_94"  Grid.Column="9" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_63"  Grid.Column="10" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_95"  Grid.Column="10" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_64"  Grid.Column="11" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_96"  Grid.Column="11" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_65"  Grid.Column="12" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_97"  Grid.Column="12" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_66"  Grid.Column="13" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_98"  Grid.Column="13" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_67"  Grid.Column="14" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_99"  Grid.Column="14" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_68"  Grid.Column="15" Grid.Row="9"   Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_100"  Grid.Column="15" Grid.Row="10"  Height="Auto" Width="49" />
+
+            <control:TestControl_v2 x:Name="element_69"  Grid.Column="16" Grid.Row="9"  Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_101"  Grid.Column="16" Grid.Row="10"  Height="Auto" Width="Auto"/>
+
+            <control:TestControl_v2 x:Name="element_70"  Grid.Column="17" Grid.Row="9" Height="Auto" Width="Auto"/>
+            <control:TestControl_v2 x:Name="element_102"  Grid.Column="17" Grid.Row="10" Height="Auto" Width="Auto"/>
+
+
+        </Grid>
+
+    </Viewbox>
+
+</Window>

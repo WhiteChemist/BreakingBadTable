@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+  <Element>
+    <name>водород</name>
+    <symbol>H</symbol>
+    <number>1</number>
+    <period>1</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>1.00794</atomic_mass>
+    <electronic_configuration>1s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Hydrogenium</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <opening_year>1766</opening_year>
+    <scientists>Г. Кавендиш</scientists>
+    <melting_temperature>-259.1</melting_temperature>
+    <boiling_temperature>-252.61</boiling_temperature>
+  </Element>
+  <Element>
+    <name>Гелий</name>
+    <symbol>He</symbol>
+    <number>2</number>
+    <period>1</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>4.002602</atomic_mass>
+    <electronic_configuration>1s</electronic_configuration>
+    <element_type>p</element_type> //Вид элемента
+    <latin_name>Helium</latin_name>
+    <electronegativity>12.3</electronegativity>//electronegativity
+    <opening_year>1868</opening_year>
+    <scientists>П. Жансен</scientists>
+    <melting_temperature>-272.2</melting_temperature>//температура плавления
+    <boiling_temperature>-268.93</boiling_temperature>//температура кипения
+  </Element>
+  <Element>
+    <name>литий</name>
+    <symbol>Li</symbol>
+    <number>3</number>
+    <period>2</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>6.941</atomic_mass>
+    <electronic_configuration>2s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Lithium</latin_name>
+    <electronegativity>0.95</electronegativity>
+    <opening_year>1817</opening_year>
+    <scientists>И. Арфведсон</scientists>
+    <melting_temperature>180.54</melting_temperature>
+    <boiling_temperature>1340</boiling_temperature>
+  </Element>
+  <Element>
+    <name>берилий</name>
+    <symbol>Be</symbol>
+    <number>4</number>
+    <period>2</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>9.0122</atomic_mass>
+    <electronic_configuration>2s2</electronic_configuration>
+    <element_type>s</element_type> //Вид элемента
+    <latin_name>Beryllium</latin_name>
+    <electronegativity>1.5</electronegativity>//electronegativity
+    <opening_year>1798</opening_year>
+    <scientists>Л. Воклен</scientists>
+    <melting_temperature>1287</melting_temperature>//температура плавления
+    <boiling_temperature>2471</boiling_temperature>//температура кипения
+  </Element>
+  <Element>
+    <name>бор</name>
+    <symbol>B</symbol>
+    <number>5</number>
+    <period>2</period>
+    <group>3</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>10.811</atomic_mass>
+    <electronic_configuration>2s2 2p1</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Borum</latin_name>
+    <electronegativity>2</electronegativity>
+    <opening_year>1808</opening_year>
+    <scientists>Ж. Гей-Люссак</scientists>
+    <melting_temperature>2074</melting_temperature>
+    <boiling_temperature>3658</boiling_temperature>
+  </Element>
+  <Element>
+    <name>углерод</name>
+    <symbol>C</symbol>
+    <number>6</number>
+    <period>2</period>
+    <group>4</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>12.011</atomic_mass>
+    <electronic_configuration>2s2 2p2</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Carboneum</latin_name>
+    <electronegativity>2.5</electronegativity>
+    <scientists>известен с древности</scientists>
+  </Element>
+  <Element>
+    <name>азот</name>
+    <symbol>N</symbol>
+    <number>7</number>
+    <period>2</period>
+    <group>5</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>14.0067</atomic_mass>
+    <electronic_configuration>2s2 2p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Nitrogenium</latin_name>
+    <electronegativity>3.05</electronegativity>
+    <opening_year>1772</opening_year>
+    <scientists>Д. Резерфорд</scientists>
+    <melting_temperature>-210</melting_temperature>
+    <boiling_temperature>-195.8</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кислород</name>
+    <symbol>O</symbol>
+    <number>8</number>
+    <period>2</period>
+    <group>6</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>15.9994</atomic_mass>
+    <electronic_configuration>2s2 2p4</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Oxigenium</latin_name>
+    <electronegativity>3.5</electronegativity>
+    <opening_year>1774</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>-218.7</melting_temperature>
+    <boiling_temperature>-183</boiling_temperature>
+  </Element>
+  <Element>
+    <name>фтор</name>
+    <symbol>F</symbol>
+    <number>9</number>
+    <period>2</period>
+    <group>7</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>18.9984</atomic_mass>
+    <electronic_configuration>2s2 2p5</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Fluorum</latin_name>
+    <electronegativity>4</electronegativity>
+    <opening_year>1771</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>-219.6</melting_temperature>
+    <boiling_temperature>-188.2</boiling_temperature>
+  </Element>
+  <Element>
+    <name>неон</name>
+    <symbol>Ne</symbol>
+    <number>10</number>
+    <period>2</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>20.179</atomic_mass>
+    <electronic_configuration>2s2 2p6</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Neon</latin_name>
+    <electronegativity>4.84</electronegativity>
+    <opening_year>1898</opening_year>
+    <scientists>В. Рамзай</scientists>
+    <melting_temperature>-248.6</melting_temperature>
+    <boiling_temperature>-246</boiling_temperature>
+  </Element>
+  <Element>
+    <name>натрий</name>
+    <symbol>Na</symbol>
+    <number>11</number>
+    <period>3</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>22.98977</atomic_mass>
+    <electronic_configuration>3s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Natrium</latin_name>
+    <electronegativity>1</electronegativity>
+    <opening_year>1807</opening_year>
+    <scientists>Г. Дэви</scientists>
+    <melting_temperature>98</melting_temperature>
+    <boiling_temperature>883.15</boiling_temperature>
+  </Element>
+  <Element>
+    <name>магний</name>
+    <symbol>Mg</symbol>
+    <number>12</number>
+    <period>3</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>24.305</atomic_mass>
+    <electronic_configuration>3s2</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Magnesium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1808</opening_year>
+    <scientists>Г. Дэви</scientists>
+    <melting_temperature>650</melting_temperature>
+    <boiling_temperature>1105</boiling_temperature>
+  </Element>
+  <Element>
+    <name>алюминий</name>
+    <symbol>Al</symbol>
+    <number>13</number>
+    <period>3</period>
+    <group>3</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>26.98154</atomic_mass>
+    <electronic_configuration>3s2 3p1</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Aluminium</latin_name>
+    <electronegativity>1.5</electronegativity>
+    <opening_year>1825</opening_year>
+    <scientists>Х. Эрстед</scientists>
+    <melting_temperature>660</melting_temperature>
+    <boiling_temperature>2452</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кремний</name>
+    <symbol>Si</symbol>
+    <number>14</number>
+    <period>3</period>
+    <group>4</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>28.0855</atomic_mass>
+    <electronic_configuration>3s2 3p2</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Silicium</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1824</opening_year>
+    <scientists>Й. Берцеллиус</scientists>
+    <melting_temperature>1415</melting_temperature>
+    <boiling_temperature>3249</boiling_temperature>
+  </Element>
+  <Element>
+    <name>фосфор</name>
+    <symbol>P</symbol>
+    <number>15</number>
+    <period>3</period>
+    <group>5</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>30.97376</atomic_mass>
+    <electronic_configuration>3s2 3p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Phosphorus</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <opening_year>1669</opening_year>
+    <scientists>Г. Брандт</scientists>
+    <melting_temperature>44.14</melting_temperature>
+    <boiling_temperature>257</boiling_temperature>
+  </Element>
+  <Element>
+    <name>сера</name>
+    <symbol>S</symbol>
+    <number>16</number>
+    <period>3</period>
+    <group>6</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>32.066</atomic_mass>
+    <electronic_configuration>3s2 3p4</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Sulfur</latin_name>
+    <electronegativity>2.58</electronegativity>
+    <scientists>известна с древности</scientists>
+    <melting_temperature>112.8</melting_temperature>
+    <boiling_temperature>444.6</boiling_temperature>
+  </Element>
+  <Element>
+    <name>хлор</name>
+    <symbol>Cl</symbol>
+    <number>17</number>
+    <period>3</period>
+    <group>7</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>35.453</atomic_mass>
+    <electronic_configuration>3s2 3p5</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Chlorum</latin_name>
+    <electronegativity>3</electronegativity>
+    <opening_year>1774</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>-101</melting_temperature>
+    <boiling_temperature>-34.1</boiling_temperature>
+  </Element>
+  <Element>
+    <name>аргон</name>
+    <symbol>Ar</symbol>
+    <number>18</number>
+    <period>3</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>39.948</atomic_mass>
+    <electronic_configuration>3s2 3p6</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Argon</latin_name>
+    <electronegativity>3.2</electronegativity>
+    <opening_year>1894</opening_year>
+    <scientists>Д. Рэлей</scientists>
+    <melting_temperature>-189.3</melting_temperature>
+    <boiling_temperature>-186</boiling_temperature>
+  </Element>
+  <Element>
+    <name>калий</name>
+    <symbol>K</symbol>
+    <number>19</number>
+    <period>4</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>39.0983</atomic_mass>
+    <electronic_configuration>4s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Kalium</latin_name>
+    <electronegativity>0.8</electronegativity>
+    <opening_year>1807</opening_year>
+    <scientists>Г. Дэви</scientists>
+    <melting_temperature>63.51</melting_temperature>
+    <boiling_temperature>761</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кальций</name>
+    <symbol>Ca</symbol>
+    <number>20</number>
+    <period>4</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>40.078</atomic_mass>
+    <electronic_configuration>4s2</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Calcium</latin_name>
+    <electronegativity>1</electronegativity>
+    <opening_year>1808</opening_year>
+    <scientists>Г. Дэви</scientists>
+    <melting_temperature>842</melting_temperature>
+    <boiling_temperature>1495</boiling_temperature>
+  </Element>
+  <Element>
+    <name>скандий</name>
+    <symbol>Sc</symbol>
+    <number>21</number>
+    <period>4</period>
+    <group>3</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>44.95591</atomic_mass>
+    <electronic_configuration>3d1 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Scandium</latin_name>
+    <electronegativity>1.3</electronegativity>
+    <opening_year>1879</opening_year>
+    <scientists>Л. Нильсон</scientists>
+    <melting_temperature>1541</melting_temperature>
+    <boiling_temperature>2837</boiling_temperature>
+  </Element>
+  <Element>
+    <name>титан</name>
+    <symbol>Ti</symbol>
+    <number>22</number>
+    <period>4</period>
+    <group>4</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>47.88</atomic_mass>
+    <electronic_configuration>3d2 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Titanium</latin_name>
+    <electronegativity>1.5</electronegativity>
+    <opening_year>1795</opening_year>
+    <scientists>М. Клапрот</scientists>
+    <melting_temperature>1671</melting_temperature>
+    <boiling_temperature>3260</boiling_temperature>
+  </Element>
+  <Element>
+    <name>ванадий</name>
+    <symbol>V</symbol>
+    <number>23</number>
+    <period>4</period>
+    <group>5</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>50.9415</atomic_mass>
+    <electronic_configuration>3d3 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Vanadium</latin_name>
+    <electronegativity>1.6</electronegativity>
+    <opening_year>1830</opening_year>
+    <scientists>Н. Сефстрем</scientists>
+    <melting_temperature>1920</melting_temperature>
+    <boiling_temperature>3400</boiling_temperature>
+  </Element>
+  <Element>
+    <name>хром</name>
+    <symbol>Cr</symbol>
+    <number>24</number>
+    <period>4</period>
+    <group>6</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>51.9961</atomic_mass>
+    <electronic_configuration>3d5 4s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Chromium</latin_name>
+    <electronegativity>1.6</electronegativity>
+    <opening_year>1797</opening_year>
+    <scientists>Л. Воклен</scientists>
+    <melting_temperature>1890</melting_temperature>
+    <boiling_temperature>2680</boiling_temperature>
+  </Element>
+  <Element>
+    <name>марганец</name>
+    <symbol>Mn</symbol>
+    <number>25</number>
+    <period>4</period>
+    <group>7</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>54.938</atomic_mass>
+    <electronic_configuration>3d5 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Manganum</latin_name>
+    <electronegativity>2</electronegativity>
+    <opening_year>1774</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>1244</melting_temperature>
+    <boiling_temperature>2080</boiling_temperature>
+  </Element>
+  <Element>
+    <name>железо</name>
+    <symbol>Fe</symbol>
+    <number>26</number>
+    <period>4</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>55.847</atomic_mass>
+    <electronic_configuration>3d6 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Ferrum</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <scientists>известно с древности</scientists>
+    <melting_temperature>1535</melting_temperature>
+    <boiling_temperature>2750</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кобальт</name>
+    <symbol>Co</symbol>
+    <number>27</number>
+    <period>4</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>58.9332</atomic_mass>
+    <electronic_configuration>3d7 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Cobaltum</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <opening_year>1735</opening_year>
+    <scientists>Г. Брандт</scientists>
+    <melting_temperature>1494</melting_temperature>
+    <boiling_temperature>2960</boiling_temperature>
+  </Element>
+  <Element>
+    <name>никель</name>
+    <symbol>Ni</symbol>
+    <number>28</number>
+    <period>4</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>58.69</atomic_mass>
+    <electronic_configuration>3d8 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Niccolum</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1751</opening_year>
+    <scientists>А. Кронстед</scientists>
+    <melting_temperature>1455</melting_temperature>
+    <boiling_temperature>2900</boiling_temperature>
+  </Element>
+  <Element>
+    <name>медь</name>
+    <symbol>Cu</symbol>
+    <number>29</number>
+    <period>4</period>
+    <group>1</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>63.546</atomic_mass>
+    <electronic_configuration>3d10 4s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Cuprum</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <scientists>известна с древности</scientists>
+    <melting_temperature>1083.4</melting_temperature>
+    <boiling_temperature>2567</boiling_temperature>
+  </Element>
+  <Element>
+    <name>цинк</name>
+    <symbol>Zn</symbol>
+    <number>30</number>
+    <period>4</period>
+    <group>2</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>65.37</atomic_mass>
+    <electronic_configuration>3d10 4s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Zincum</latin_name>
+    <electronegativity>1.6</electronegativity>
+    <scientists>известен с древности</scientists>
+    <melting_temperature>419.5</melting_temperature>
+    <boiling_temperature>906</boiling_temperature>
+  </Element>
+  <Element>
+    <name>галлий</name>
+    <symbol>Ga</symbol>
+    <number>31</number>
+    <period>4</period>
+    <group>3</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>69.72</atomic_mass>
+    <electronic_configuration>4s2 4p1</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Gallium</latin_name>
+    <electronegativity>1.6</electronegativity>
+    <opening_year>1875</opening_year>
+    <scientists>П. Лекок де Буабодран</scientists>
+    <melting_temperature>29.75</melting_temperature>
+    <boiling_temperature>2403</boiling_temperature>
+  </Element>
+  <Element>
+    <name>германий</name>
+    <symbol>Ge</symbol>
+    <number>32</number>
+    <period>4</period>
+    <group>4</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>72.59</atomic_mass>
+    <electronic_configuration>4s2 4p2</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Germanium</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1886</opening_year>
+    <scientists>К. Ванклер</scientists>
+    <melting_temperature>938.25</melting_temperature>
+    <boiling_temperature>2850</boiling_temperature>
+  </Element>
+  <Element>
+    <name>мышьяк</name>
+    <symbol>As</symbol>
+    <number>33</number>
+    <period>4</period>
+    <group>5</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>74.9216</atomic_mass>
+    <electronic_configuration>4s2 4p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Arsenicum</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <scientists>известен с древности</scientists>
+    <melting_temperature>817</melting_temperature>
+    <boiling_temperature>615</boiling_temperature>
+  </Element>
+  <Element>
+    <name>селен</name>
+    <symbol>Se</symbol>
+    <number>34</number>
+    <period>4</period>
+    <group>6</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>78.96</atomic_mass>
+    <electronic_configuration>4s2 4p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Selenium</latin_name>
+    <electronegativity>2.4</electronegativity>
+    <opening_year>1817</opening_year>
+    <scientists>Й. Берцеллиус</scientists>
+    <melting_temperature>221</melting_temperature>
+    <boiling_temperature>685.3</boiling_temperature>
+  </Element>
+  <Element>
+    <name>бром</name>
+    <symbol>Br</symbol>
+    <number>35</number>
+    <period>4</period>
+    <group>7</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>79.904</atomic_mass>
+    <electronic_configuration>4s2 4p4</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Bromum</latin_name>
+    <electronegativity>2.8</electronegativity>
+    <opening_year>1826</opening_year>
+    <scientists>А. Балар</scientists>
+    <melting_temperature>-7.25</melting_temperature>
+    <boiling_temperature>59.2</boiling_temperature>
+  </Element>
+  <Element>
+    <name>криптон</name>
+    <symbol>Kr</symbol>
+    <number>36</number>
+    <period>4</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>83.8</atomic_mass>
+    <electronic_configuration>4s2 4p5</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Krypton</latin_name>
+    <electronegativity>3</electronegativity>
+    <opening_year>1898</opening_year>
+    <scientists>В. Рамзай</scientists>
+    <melting_temperature>-157.1</melting_temperature>
+    <boiling_temperature>-153.35</boiling_temperature>
+  </Element>
+  <Element>
+    <name>рубидий</name>
+    <symbol>Rb</symbol>
+    <number>37</number>
+    <period>5</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>85.47</atomic_mass>
+    <electronic_configuration>4s2 4p6</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Rubidium</latin_name>
+    <electronegativity>0.8</electronegativity>
+    <opening_year>1861</opening_year>
+    <scientists>Р. Бунзен</scientists>
+    <melting_temperature>39.32</melting_temperature>
+    <boiling_temperature>687.2</boiling_temperature>
+  </Element>
+  <Element>
+    <name>стронций</name>
+    <symbol>Sr</symbol>
+    <number>38</number>
+    <period>5</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>87.62</atomic_mass>
+    <electronic_configuration>5s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Strontium</latin_name>
+    <electronegativity>1</electronegativity>
+    <opening_year>1790</opening_year>
+    <scientists>А. Крауфорд</scientists>
+    <melting_temperature>768</melting_temperature>
+    <boiling_temperature>1390</boiling_temperature>
+  </Element>
+  <Element>
+    <name>иттрий</name>
+    <symbol>Y</symbol>
+    <number>39</number>
+    <period>5</period>
+    <group>3</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>88.905</atomic_mass>
+    <electronic_configuration>5s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Yttrium</latin_name>
+    <electronegativity>1.3</electronegativity>
+    <opening_year>1794</opening_year>
+    <scientists>Ю. Гадолин</scientists>
+    <melting_temperature>1528</melting_temperature>
+    <boiling_temperature>3320</boiling_temperature>
+  </Element>
+  <Element>
+    <name>цирконий</name>
+    <symbol>Zr</symbol>
+    <number>40</number>
+    <period>5</period>
+    <group>4</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>91.22</atomic_mass>
+    <electronic_configuration>4d1 5s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Zirconium</latin_name>
+    <electronegativity>1.4</electronegativity>
+    <opening_year>1789</opening_year>
+    <scientists>М. Клапрот</scientists>
+    <melting_temperature>1855</melting_temperature>
+    <boiling_temperature>4340</boiling_temperature>
+  </Element>
+  <Element>
+    <name>ниобий</name>
+    <symbol>Nb</symbol>
+    <number>41</number>
+    <period>5</period>
+    <group>5</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>92.906</atomic_mass>
+    <electronic_configuration>4d2 5s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Niobium</latin_name>
+    <electronegativity>1.6</electronegativity>
+    <opening_year>1801</opening_year>
+    <scientists>Ч. Хетчет</scientists>
+    <melting_temperature>2477</melting_temperature>
+    <boiling_temperature>4760</boiling_temperature>
+  </Element>
+  <Element>
+    <name>молибден</name>
+    <symbol>Mo</symbol>
+    <number>42</number>
+    <period>5</period>
+    <group>6</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>95.94</atomic_mass>
+    <electronic_configuration>4d4 5s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Molibdaehum</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1778</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>2623</melting_temperature>
+    <boiling_temperature>4800</boiling_temperature>
+  </Element>
+  <Element>
+    <name>технеций</name>
+    <symbol>Tc</symbol>
+    <number>43</number>
+    <period>5</period>
+    <group>7</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>99</atomic_mass>
+    <electronic_configuration>4d5 5s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Technetium</latin_name>
+    <electronegativity>1.36</electronegativity>
+    <opening_year>1937</opening_year>
+    <scientists>К. Перрье</scientists>
+    <melting_temperature>2200</melting_temperature>
+    <boiling_temperature>4600</boiling_temperature>
+  </Element>
+  <Element>
+    <name>рутений</name>
+    <symbol>Ru</symbol>
+    <number>44</number>
+    <period>5</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>101.07</atomic_mass>
+    <electronic_configuration>4d7 5s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Ruthenium</latin_name>
+    <electronegativity>1.42</electronegativity>
+    <opening_year>1844</opening_year>
+    <scientists>К. К. Клаус</scientists>
+    <melting_temperature>2334</melting_temperature>
+    <boiling_temperature>4077</boiling_temperature>
+  </Element>
+  <Element>
+    <name>родий</name>
+    <symbol>Rh</symbol>
+    <number>45</number>
+    <period>5</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>102.905</atomic_mass>
+    <electronic_configuration>4d8 5s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Rhodium</latin_name>
+    <electronegativity>2.28</electronegativity>
+    <opening_year>1804</opening_year>
+    <scientists>У. Волластон</scientists>
+    <melting_temperature>1963</melting_temperature>
+    <boiling_temperature>3727</boiling_temperature>
+  </Element>
+  <Element>
+    <name>палладий</name>
+    <symbol>Pd</symbol>
+    <number>46</number>
+    <period>5</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>106.4</atomic_mass>
+    <electronic_configuration>4d10 5s0</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Palladium</latin_name>
+    <electronegativity>2.2</electronegativity>
+    <opening_year>1803</opening_year>
+    <scientists>У. Волластон</scientists>
+    <melting_temperature>1554</melting_temperature>
+    <boiling_temperature>2940</boiling_temperature>
+  </Element>
+  <Element>
+    <name>серебро</name>
+    <symbol>Ag</symbol>
+    <number>47</number>
+    <period>5</period>
+    <group>1</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>107.868</atomic_mass>
+    <electronic_configuration>4d10 5s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Argentum</latin_name>
+    <electronegativity>1.93</electronegativity>
+    <scientists>известно с древности</scientists>
+    <melting_temperature>961.93</melting_temperature>
+    <boiling_temperature>2167</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кадмий</name>
+    <symbol>Cd</symbol>
+    <number>48</number>
+    <period>5</period>
+    <group>2</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>112.4</atomic_mass>
+    <electronic_configuration>4d10 5s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Cadmium</latin_name>
+    <electronegativity>1.7</electronegativity>
+    <opening_year>1817</opening_year>
+    <scientists>Ф. Штромейер</scientists>
+    <melting_temperature>321.1</melting_temperature>
+    <boiling_temperature>766.5</boiling_temperature>
+  </Element>
+  <Element>
+    <name>индий</name>
+    <symbol>In</symbol>
+    <number>49</number>
+    <period>5</period>
+    <group>3</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>114.82</atomic_mass>
+    <electronic_configuration>5s2 5p1</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Indium</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1863</opening_year>
+    <scientists>Ф. Рейх</scientists>
+    <melting_temperature>156.78</melting_temperature>
+    <boiling_temperature>2024</boiling_temperature>
+  </Element>
+  <Element>
+    <name>олово</name>
+    <symbol>Sn</symbol>
+    <number>50</number>
+    <period>5</period>
+    <group>4</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>118.69</atomic_mass>
+    <electronic_configuration>5s2 5p2</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Stannum</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <scientists>известно с древности</scientists>
+    <melting_temperature>231.9</melting_temperature>
+    <boiling_temperature>2600</boiling_temperature>
+  </Element>
+  <Element>
+    <name>сурьма</name>
+    <symbol>Sb</symbol>
+    <number>51</number>
+    <period>5</period>
+    <group>5</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>121.75</atomic_mass>
+    <electronic_configuration>5s2 5p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Stibium</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <scientists>известна с древности</scientists>
+    <melting_temperature>630.5</melting_temperature>
+    <boiling_temperature>1634</boiling_temperature>
+  </Element>
+  <Element>
+    <name>теллур</name>
+    <symbol>Te</symbol>
+    <number>52</number>
+    <period>5</period>
+    <group>6</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>127.6</atomic_mass>
+    <electronic_configuration>5s2 5p4</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Tellurium</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <opening_year>1782</opening_year>
+    <scientists>Ф. Мюллер фон Райхенштейн</scientists>
+    <melting_temperature>449.8</melting_temperature>
+    <boiling_temperature>990</boiling_temperature>
+  </Element>
+  <Element>
+    <name>иод</name>
+    <symbol>I</symbol>
+    <number>53</number>
+    <period>5</period>
+    <group>7</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>126.9044</atomic_mass>
+    <electronic_configuration>5s2 5p5</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Iodum</latin_name>
+    <electronegativity>2.5</electronegativity>
+    <opening_year>1811</opening_year>
+    <scientists>Б. Куртуа</scientists>
+    <melting_temperature>113.5</melting_temperature>
+    <boiling_temperature>184.35</boiling_temperature>
+  </Element>
+  <Element>
+    <name>ксенон</name>
+    <symbol>Xe</symbol>
+    <number>54</number>
+    <period>5</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>131.3</atomic_mass>
+    <electronic_configuration>5s2 5p6</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Xenon</latin_name>
+    <electronegativity>2.6</electronegativity>
+    <opening_year>1898</opening_year>
+    <scientists>В. Рамзай</scientists>
+    <melting_temperature>-111.5</melting_temperature>
+    <boiling_temperature>-108</boiling_temperature>
+  </Element>
+  <Element>
+    <name>цезий</name>
+    <symbol>Cs</symbol>
+    <number>55</number>
+    <period>6</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>132.905</atomic_mass>
+    <electronic_configuration>6s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Cesium</latin_name>
+    <electronegativity>0.7</electronegativity>
+    <opening_year>1860</opening_year>
+    <scientists>Р. Бунзен</scientists>
+    <melting_temperature>28.4</melting_temperature>
+    <boiling_temperature>669.2</boiling_temperature>
+  </Element>
+  <Element>
+    <name>барий</name>
+    <symbol>Ba</symbol>
+    <number>56</number>
+    <period>6</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>137.34</atomic_mass>
+    <electronic_configuration>6s2</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Barium</latin_name>
+    <electronegativity>0.9</electronegativity>
+    <opening_year>1774</opening_year>
+    <scientists>И. Ган</scientists>
+    <melting_temperature>727</melting_temperature>
+    <boiling_temperature>1637</boiling_temperature>
+  </Element>
+  <Element>
+    <name>лантан</name>
+    <symbol>La</symbol>
+    <number>57</number>
+    <period>6</period>
+    <group>3</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>138.81</atomic_mass>
+    <electronic_configuration>5d1 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Lanthanum</latin_name>
+    <electronegativity>1.08</electronegativity>
+    <opening_year>1839</opening_year>
+    <scientists>К. Мосандер</scientists>
+    <melting_temperature>920</melting_temperature>
+    <boiling_temperature>3450</boiling_temperature>
+  </Element>
+  <Element>
+    <name>церий</name>
+    <symbol>Ce</symbol>
+    <number>58</number>
+    <atomic_mass>140.12</atomic_mass>
+    <electronic_configuration>4f1 5d1 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Cerium</latin_name>
+    <electronegativity>1.08</electronegativity>
+    <opening_year>1803</opening_year>
+    <scientists>Й. Берцеллиус</scientists>
+    <melting_temperature>804</melting_temperature>
+    <boiling_temperature>3450</boiling_temperature>
+  </Element>
+  <Element>
+    <name>празеодим</name>
+    <symbol>Pr</symbol>
+    <number>59</number>
+    <atomic_mass>140.907</atomic_mass>
+    <electronic_configuration>4f3 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Praseodymium</latin_name>
+    <electronegativity>1.07</electronegativity>
+    <opening_year>1885</opening_year>
+    <scientists>К. Ауэр фон Вельсбах</scientists>
+    <melting_temperature>931</melting_temperature>
+    <boiling_temperature>3510</boiling_temperature>
+  </Element>
+  <Element>
+    <name>неодим</name>
+    <symbol>Nd</symbol>
+    <number>60</number>
+    <atomic_mass>144.24</atomic_mass>
+    <electronic_configuration>4f4 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Neodimium</latin_name>
+    <electronegativity>1.07</electronegativity>
+    <opening_year>1885</opening_year>
+    <scientists>К. Ауэр фон Вельсбах</scientists>
+    <melting_temperature>1024</melting_temperature>
+    <boiling_temperature>3080</boiling_temperature>
+  </Element>
+  <Element>
+    <name>прометий</name>
+    <symbol>Pm</symbol>
+    <number>61</number>
+    <atomic_mass>145</atomic_mass>
+    <electronic_configuration>4f5 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Promethium</latin_name>
+    <electronegativity>1.07</electronegativity>
+    <opening_year>1945</opening_year>
+    <scientists>Д. Марински</scientists>
+    <melting_temperature>1170</melting_temperature>
+    <boiling_temperature>3000</boiling_temperature>
+  </Element>
+  <Element>
+    <name>самарий</name>
+    <symbol>Sm</symbol>
+    <number>62</number>
+    <atomic_mass>150.35</atomic_mass>
+    <electronic_configuration>4f6 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Samarium</latin_name>
+    <electronegativity>1.17</electronegativity>
+    <opening_year>1879</opening_year>
+    <scientists>П. Лекок де Буабодран</scientists>
+    <melting_temperature>1072</melting_temperature>
+    <boiling_temperature>1800</boiling_temperature>
+  </Element>
+  <Element>
+    <name>европий</name>
+    <symbol>Eu</symbol>
+    <number>63</number>
+    <atomic_mass>151.96</atomic_mass>
+    <electronic_configuration>4f7 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Europium</latin_name>
+    <electronegativity>1.01</electronegativity>
+    <opening_year>1901</opening_year>
+    <scientists>Э. Демарсе</scientists>
+    <melting_temperature>826</melting_temperature>
+    <boiling_temperature>1440</boiling_temperature>
+  </Element>
+  <Element>
+    <name>гадолиний</name>
+    <symbol>Gd</symbol>
+    <number>64</number>
+    <atomic_mass>157.25</atomic_mass>
+    <electronic_configuration>4f7 5d1 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Gadolinium</latin_name>
+    <electronegativity>1.11</electronegativity>
+    <opening_year>1880</opening_year>
+    <scientists>Ж. Мариньяк</scientists>
+    <melting_temperature>1312</melting_temperature>
+    <boiling_temperature>3272</boiling_temperature>
+  </Element>
+  <Element>
+    <name>тербий</name>
+    <symbol>Tb</symbol>
+    <number>65</number>
+    <atomic_mass>158.924</atomic_mass>
+    <electronic_configuration>4f9 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Terbium</latin_name>
+    <electronegativity>1.1</electronegativity>
+    <opening_year>1843</opening_year>
+    <scientists>К. Мосандер</scientists>
+    <melting_temperature>1356</melting_temperature>
+    <boiling_temperature>3073</boiling_temperature>
+  </Element>
+  <Element>
+    <name>диспрозий</name>
+    <symbol>Dy</symbol>
+    <number>66</number>
+    <atomic_mass>162.5</atomic_mass>
+    <electronic_configuration>4f10 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Dysprosium</latin_name>
+    <electronegativity>1.1</electronegativity>
+    <opening_year>1886</opening_year>
+    <scientists>П. Лекок де Буабодран</scientists>
+    <melting_temperature>1409</melting_temperature>
+    <boiling_temperature>2587</boiling_temperature>
+  </Element>
+  <Element>
+    <name>гольмий</name>
+    <symbol>Ho</symbol>
+    <number>67</number>
+    <atomic_mass>164.93</atomic_mass>
+    <electronic_configuration>4f11 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Holmium</latin_name>
+    <electronegativity>1.1</electronegativity>
+    <opening_year>1879</opening_year>
+    <scientists>П. Клеве</scientists>
+    <melting_temperature>1470</melting_temperature>
+    <boiling_temperature>2707</boiling_temperature>
+  </Element>
+  <Element>
+    <name>эрбий</name>
+    <symbol>Er</symbol>
+    <number>68</number>
+    <atomic_mass>167.26</atomic_mass>
+    <electronic_configuration>4f12 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Erbium</latin_name>
+    <electronegativity>1.11</electronegativity>
+    <opening_year>1843</opening_year>
+    <scientists>К. Мосандер</scientists>
+    <melting_temperature>1522</melting_temperature>
+    <boiling_temperature>2857</boiling_temperature>
+  </Element>
+  <Element>
+    <name>тулий</name>
+    <symbol>Tm</symbol>
+    <number>69</number>
+    <atomic_mass>168.934</atomic_mass>
+    <electronic_configuration>4f13 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Thulium</latin_name>
+    <electronegativity>1.11</electronegativity>
+    <opening_year>1879</opening_year>
+    <scientists>П. Клеве</scientists>
+    <melting_temperature>1545</melting_temperature>
+    <boiling_temperature>1947</boiling_temperature>
+  </Element>
+  <Element>
+    <name>иттербий</name>
+    <symbol>Yb</symbol>
+    <number>70</number>
+    <atomic_mass>173.04</atomic_mass>
+    <electronic_configuration>4f14 5d0 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Ytterbium</latin_name>
+    <electronegativity>1.06</electronegativity>
+    <opening_year>1878</opening_year>
+    <scientists>Ж. Мариньяк</scientists>
+    <melting_temperature>824</melting_temperature>
+    <boiling_temperature>1211</boiling_temperature>
+  </Element>
+  <Element>
+    <name>лютеций</name>
+    <symbol>Lu</symbol>
+    <number>71</number>
+    <atomic_mass>174.97</atomic_mass>
+    <electronic_configuration>4f14 5d1 6s2</electronic_configuration>
+    <element_type>fл</element_type>
+    <latin_name>Lutetium</latin_name>
+    <electronegativity>1.14</electronegativity>
+    <opening_year>1907</opening_year>
+    <scientists>Ж. Урбэн</scientists>
+    <melting_temperature>1660</melting_temperature>
+    <boiling_temperature>3410</boiling_temperature>
+  </Element>
+  <Element>
+    <name>гафний</name>
+    <symbol>Hf</symbol>
+    <number>72</number>
+    <period>6</period>
+    <group>4</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>178.49</atomic_mass>
+    <electronic_configuration>4f14 5d2 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Hafnium</latin_name>
+    <electronegativity>1.3</electronegativity>
+    <opening_year>1923</opening_year>
+    <scientists>Д. Костер</scientists>
+    <melting_temperature>2230</melting_temperature>
+    <boiling_temperature>5400</boiling_temperature>
+  </Element>
+  <Element>
+    <name>тантал</name>
+    <symbol>Ta</symbol>
+    <number>73</number>
+    <period>6</period>
+    <group>5</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>180.948</atomic_mass>
+    <electronic_configuration>4f14 5d3 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Tantalum</latin_name>
+    <electronegativity>1.5</electronegativity>
+    <opening_year>1802</opening_year>
+    <scientists>А. Экеберг</scientists>
+    <melting_temperature>3014</melting_temperature>
+    <boiling_temperature>5500</boiling_temperature>
+  </Element>
+  <Element>
+    <name>вольфрам</name>
+    <symbol>W</symbol>
+    <number>74</number>
+    <period>6</period>
+    <group>6</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>183.85</atomic_mass>
+    <electronic_configuration>4f14 5d4 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Wolframium</latin_name>
+    <electronegativity>1.7</electronegativity>
+    <opening_year>1781</opening_year>
+    <scientists>К. Шееле</scientists>
+    <melting_temperature>3380</melting_temperature>
+    <boiling_temperature>6000</boiling_temperature>
+  </Element>
+  <Element>
+    <name>рений</name>
+    <symbol>Re</symbol>
+    <number>75</number>
+    <period>6</period>
+    <group>7</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>186.2</atomic_mass>
+    <electronic_configuration>4f14 5d5 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Rhenium</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <opening_year>1925</opening_year>
+    <scientists>В. Ноддак</scientists>
+    <melting_temperature>3180</melting_temperature>
+    <boiling_temperature>5600</boiling_temperature>
+  </Element>
+  <Element>
+    <name>осмий</name>
+    <symbol>Os</symbol>
+    <number>76</number>
+    <period>6</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>190.2</atomic_mass>
+    <electronic_configuration>4f14 5d6 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Osmium</latin_name>
+    <electronegativity>2.1</electronegativity>
+    <opening_year>1804</opening_year>
+    <scientists>С. Теннант</scientists>
+    <melting_temperature>3027</melting_temperature>
+    <boiling_temperature>5027</boiling_temperature>
+  </Element>
+  <Element>
+    <name>иридий</name>
+    <symbol>Ir</symbol>
+    <number>77</number>
+    <period>6</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>192.2</atomic_mass>
+    <electronic_configuration>4f14 5d7 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Iridium</latin_name>
+    <electronegativity>2.2</electronegativity>
+    <opening_year>1804</opening_year>
+    <scientists>С. Теннант</scientists>
+    <melting_temperature>2447</melting_temperature>
+    <boiling_temperature>4370</boiling_temperature>
+  </Element>
+  <Element>
+    <name>платина</name>
+    <symbol>Pt</symbol>
+    <number>78</number>
+    <period>6</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>195.09</atomic_mass>
+    <electronic_configuration>4f14 5d9 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Platinum</latin_name>
+    <electronegativity>2.2</electronegativity>
+    <scientists>известна с древности</scientists>
+    <melting_temperature>1769</melting_temperature>
+    <boiling_temperature>3800</boiling_temperature>
+  </Element>
+  <Element>
+    <name>золото</name>
+    <symbol>Au</symbol>
+    <number>79</number>
+    <period>6</period>
+    <group>1</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>196.967</atomic_mass>
+    <electronic_configuration>5d10 6s1</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Aurum</latin_name>
+    <electronegativity>2.4</electronegativity>
+    <scientists>известно с древности</scientists>
+    <melting_temperature>1064</melting_temperature>
+    <boiling_temperature>2880</boiling_temperature>
+  </Element>
+  <Element>
+    <name>ртуть</name>
+    <symbol>Hg</symbol>
+    <number>80</number>
+    <period>6</period>
+    <group>2</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>200.59</atomic_mass>
+    <electronic_configuration>5d10 6s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Hydrargyrum</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <scientists>известна с древности</scientists>
+    <melting_temperature>-38.87</melting_temperature>
+    <boiling_temperature>356.58</boiling_temperature>
+  </Element>
+  <Element>
+    <name>таллий</name>
+    <symbol>Tl</symbol>
+    <number>81</number>
+    <period>6</period>
+    <group>3</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>204.37</atomic_mass>
+    <electronic_configuration>6s2 6p1</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Thallium</latin_name>
+    <electronegativity>1.8</electronegativity>
+    <opening_year>1861</opening_year>
+    <scientists>У. Крукс</scientists>
+    <melting_temperature>303</melting_temperature>
+    <boiling_temperature>1475</boiling_temperature>
+  </Element>
+  <Element>
+    <name>свинец</name>
+    <symbol>Pb</symbol>
+    <number>82</number>
+    <period>6</period>
+    <group>4</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>207.19</atomic_mass>
+    <electronic_configuration>6s2 6p2</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Plumbum</latin_name>
+    <electronegativity>1.55</electronegativity>
+    <scientists>известен с древности</scientists>
+    <melting_temperature>327.5</melting_temperature>
+    <boiling_temperature>1751</boiling_temperature>
+  </Element>
+  <Element>
+    <name>висмут</name>
+    <symbol>Bi</symbol>
+    <number>83</number>
+    <period>6</period>
+    <group>5</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>208.98</atomic_mass>
+    <electronic_configuration>6s2 6p3</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Bismuthum</latin_name>
+    <electronegativity>1.9</electronegativity>
+    <scientists>известен со средневековья</scientists>
+    <melting_temperature>271.4</melting_temperature>
+    <boiling_temperature>1564</boiling_temperature>
+  </Element>
+  <Element>
+    <name>полоний</name>
+    <symbol>Po</symbol>
+    <number>84</number>
+    <period>6</period>
+    <group>6</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>210</atomic_mass>
+    <electronic_configuration>6s2 6p4</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Polonium</latin_name>
+    <electronegativity>1.76</electronegativity>
+    <opening_year>1898</opening_year>
+    <scientists>М.и П. Кюри</scientists>
+    <melting_temperature>254</melting_temperature>
+    <boiling_temperature>949</boiling_temperature>
+  </Element>
+  <Element>
+    <name>Астат</name>
+    <symbol>At</symbol>
+    <number>85</number>
+    <period>1</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>4.002602</atomic_mass>
+    <electronic_configuration>1s2</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Helium</latin_name>
+    <electronegativity>5.5</electronegativity>
+    <opening_year>1868</opening_year>
+    <scientists>Н. Локъер</scientists>
+    <melting_temperature>-271</melting_temperature>
+    <boiling_temperature>-269</boiling_temperature>
+  </Element>
+  <Element>
+    <name>нобелий</name>
+    <symbol>No</symbol>
+    <number>102</number>
+    <atomic_mass>255</atomic_mass>
+    <electronic_configuration>5f14 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Nobelium</latin_name>
+    <opening_year>1963</opening_year>
+    <scientists>Г. Н. Флеров</scientists>
+  </Element>
+  <Element>
+    <name>лоуренсий</name>
+    <symbol>Lr</symbol>
+    <number>103</number>
+    <atomic_mass>257</atomic_mass>
+    <electronic_configuration>5f14 6d1 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Lawrencium</latin_name>
+    <opening_year>1961</opening_year>
+    <scientists>А. Гиорсо</scientists>
+  </Element>
+  <Element>
+    <name>астат</name>
+    <symbol>At</symbol>
+    <number>85</number>
+    <period>6</period>
+    <group>7</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>210</atomic_mass>
+    <electronic_configuration>6s2 6p5</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Astatium</latin_name>
+    <electronegativity>2.3</electronegativity>
+    <opening_year>1940</opening_year>
+    <scientists>Д. Корсон</scientists>
+    <melting_temperature>244</melting_temperature>
+    <boiling_temperature>309</boiling_temperature>
+  </Element>
+  <Element>
+    <name>радон</name>
+    <symbol>Rn</symbol>
+    <number>86</number>
+    <period>6</period>
+    <group>8</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>222</atomic_mass>
+    <electronic_configuration>6s2 6p6</electronic_configuration>
+    <element_type>p</element_type>
+    <latin_name>Radon</latin_name>
+    <electronegativity>2.06</electronegativity>
+    <opening_year>1900</opening_year>
+    <scientists>Э. Дорн</scientists>
+    <melting_temperature>-71</melting_temperature>
+    <boiling_temperature>-61.8</boiling_temperature>
+  </Element>
+  <Element>
+    <name>франций</name>
+    <symbol>Fr</symbol>
+    <number>87</number>
+    <period>7</period>
+    <group>1</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>223</atomic_mass>
+    <electronic_configuration>7s1</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Francium</latin_name>
+    <electronegativity>0.7</electronegativity>
+    <opening_year>1939</opening_year>
+    <scientists>М. Перей</scientists>
+    <melting_temperature>21</melting_temperature>
+    <boiling_temperature>660</boiling_temperature>
+  </Element>
+  <Element>
+    <name>радий</name>
+    <symbol>Ra</symbol>
+    <number>88</number>
+    <period>7</period>
+    <group>2</group>
+    <subgroup>А</subgroup>
+    <atomic_mass>226</atomic_mass>
+    <electronic_configuration>7s2</electronic_configuration>
+    <element_type>s</element_type>
+    <latin_name>Radium</latin_name>
+    <electronegativity>0.97</electronegativity>
+    <opening_year>1898</opening_year>
+    <scientists>Ж. Бемон</scientists>
+    <melting_temperature>969</melting_temperature>
+    <boiling_temperature>1507</boiling_temperature>
+  </Element>
+  <Element>
+    <name>актиний</name>
+    <symbol>Ac</symbol>
+    <number>89</number>
+    <period>7</period>
+    <group>3</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>227</atomic_mass>
+    <electronic_configuration>6d1 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Actinium</latin_name>
+    <electronegativity>1.1</electronegativity>
+    <opening_year>1899</opening_year>
+    <scientists>А. Дебьерн</scientists>
+    <melting_temperature>1050</melting_temperature>
+    <boiling_temperature>3300</boiling_temperature>
+  </Element>
+  <Element>
+    <name>торий</name>
+    <symbol>Th</symbol>
+    <number>90</number>
+    <atomic_mass>232.038</atomic_mass>
+    <electronic_configuration>5f0 6d2 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Thorium</latin_name>
+    <electronegativity>1.11</electronegativity>
+    <opening_year>1828</opening_year>
+    <scientists>Й. Берцеллиус</scientists>
+    <melting_temperature>1750</melting_temperature>
+    <boiling_temperature>4200</boiling_temperature>
+  </Element>
+  <Element>
+    <name>протактиний</name>
+    <symbol>Pa</symbol>
+    <number>91</number>
+    <atomic_mass>231</atomic_mass>
+    <electronic_configuration>5f2 6d1 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Protactinium</latin_name>
+    <electronegativity>1.14</electronegativity>
+    <opening_year>1918</opening_year>
+    <scientists>Ф. Содди</scientists>
+    <melting_temperature>1572</melting_temperature>
+    <boiling_temperature>4487</boiling_temperature>
+  </Element>
+  <Element>
+    <name>уран</name>
+    <symbol>U</symbol>
+    <number>92</number>
+    <atomic_mass>238.03</atomic_mass>
+    <electronic_configuration>5f3 6d1 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Uranium</latin_name>
+    <electronegativity>1.22</electronegativity>
+    <opening_year>1789</opening_year>
+    <scientists>М. Клапрот</scientists>
+    <melting_temperature>1135</melting_temperature>
+    <boiling_temperature>4200</boiling_temperature>
+  </Element>
+  <Element>
+    <name>нептуний</name>
+    <symbol>Np</symbol>
+    <number>93</number>
+    <atomic_mass>237</atomic_mass>
+    <electronic_configuration>5f4 6d1 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Neptunium</latin_name>
+    <electronegativity>1.22</electronegativity>
+    <opening_year>1940</opening_year>
+    <scientists>Э. Макмиллан</scientists>
+    <melting_temperature>639</melting_temperature>
+    <boiling_temperature>4082</boiling_temperature>
+  </Element>
+  <Element>
+    <name>плутоний</name>
+    <symbol>Pu</symbol>
+    <number>94</number>
+    <atomic_mass>242</atomic_mass>
+    <electronic_configuration>5f6 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Plutonium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1940</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>640</melting_temperature>
+    <boiling_temperature>3352</boiling_temperature>
+  </Element>
+  <Element>
+    <name>амерций</name>
+    <symbol>Am</symbol>
+    <number>95</number>
+    <atomic_mass>243</atomic_mass>
+    <electronic_configuration>5f7 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Americium</latin_name>
+    <electronegativity>1</electronegativity>
+    <opening_year>1945</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>1173</melting_temperature>
+    <boiling_temperature>2607</boiling_temperature>
+  </Element>
+  <Element>
+    <name>кюрий</name>
+    <symbol>Cm</symbol>
+    <number>96</number>
+    <atomic_mass>247</atomic_mass>
+    <electronic_configuration>5f7 6d1 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Curium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1944</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>1358</melting_temperature>
+    <boiling_temperature>3110</boiling_temperature>
+  </Element>
+  <Element>
+    <name>берклий</name>
+    <symbol>Bk</symbol>
+    <number>97</number>
+    <atomic_mass>247</atomic_mass>
+    <electronic_configuration>5f9 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Berkelium</latin_name>
+    <electronegativity>1</electronegativity>
+    <opening_year>1949</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>1050</melting_temperature>
+    <boiling_temperature>2630</boiling_temperature>
+  </Element>
+  <Element>
+    <name>калифорний</name>
+    <symbol>Cf</symbol>
+    <number>98</number>
+    <atomic_mass>249</atomic_mass>
+    <electronic_configuration>5f10 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Californium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1950</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>900</melting_temperature>
+    <boiling_temperature>1227</boiling_temperature>
+  </Element>
+  <Element>
+    <name>энштейний</name>
+    <symbol>Es</symbol>
+    <number>99</number>
+    <atomic_mass>254</atomic_mass>
+    <electronic_configuration>5f11 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Einsteinium</latin_name>
+    <electronegativity>1.3</electronegativity>
+    <opening_year>1952</opening_year>
+    <scientists>Г. Сиборг</scientists>
+    <melting_temperature>860</melting_temperature>
+  </Element>
+  <Element>
+    <name>фермий</name>
+    <symbol>Fm</symbol>
+    <number>100</number>
+    <atomic_mass>253</atomic_mass>
+    <electronic_configuration>5f12 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Fermium</latin_name>
+    <electronegativity>1.3</electronegativity>
+    <opening_year>1952</opening_year>
+    <scientists>Г. Сиборг</scientists>
+  </Element>
+  <Element>
+    <name>менделевий</name>
+    <symbol>Md</symbol>
+    <number>101</number>
+    <atomic_mass>256</atomic_mass>
+    <electronic_configuration>5f13 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Mendelevium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1955</opening_year>
+    <scientists>Г. Сиборг</scientists>
+  </Element>
+  <Element>
+    <name>Нобелий</name>
+    <symbol>No</symbol>
+    <number>102</number>
+    <atomic_mass>256</atomic_mass>
+    <electronic_configuration>5f13 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Mendelevium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1955</opening_year>
+    <scientists>Г. Сиборг</scientists>
+  </Element>
+  <Element>
+    <name>Лоуренсий</name>
+    <symbol>Lr</symbol>
+    <number>103</number>
+    <atomic_mass>256</atomic_mass>
+    <electronic_configuration>5f13 6d0 7s2</electronic_configuration>
+    <element_type>fа</element_type>
+    <latin_name>Mendelevium</latin_name>
+    <electronegativity>1.2</electronegativity>
+    <opening_year>1955</opening_year>
+    <scientists>Г. Сиборг</scientists>
+  </Element>
+  <Element>
+    <name>резерфордий</name>
+    <symbol>Rf</symbol>
+    <number>104</number>
+    <period>7</period>
+    <group>4</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>261</atomic_mass>
+    <electronic_configuration>5f14 6d2 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Rutherfordium</latin_name>
+    <opening_year>1964</opening_year>
+    <scientists>Г. Н. Флеров</scientists>
+  </Element>
+  <Element>
+    <name>дубний</name>
+    <symbol>Db</symbol>
+    <number>105</number>
+    <period>7</period>
+    <group>5</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>262</atomic_mass>
+    <electronic_configuration>5f14 6d3 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Dubnium</latin_name>
+    <opening_year>1964</opening_year>
+    <scientists>В. А. Друин</scientists>
+  </Element>
+  <Element>
+    <name>сиборгий</name>
+    <symbol>Sg</symbol>
+    <number>106</number>
+    <period>7</period>
+    <group>6</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>263</atomic_mass>
+    <electronic_configuration>5f14 6d4 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Seaborgium</latin_name>
+    <opening_year>1974</opening_year>
+    <scientists>А. Гиорсо</scientists>
+  </Element>
+  <Element>
+    <name>борий</name>
+    <symbol>Bh</symbol>
+    <number>107</number>
+    <period>7</period>
+    <group>7</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>262</atomic_mass>
+    <electronic_configuration>5f14 6d5 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Bohrium</latin_name>
+    <opening_year>1981</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>хассий</name>
+    <symbol>Hs</symbol>
+    <number>108</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>265</atomic_mass>
+    <electronic_configuration>5f14 6d6 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Nassium</latin_name>
+    <opening_year>1984</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>110</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>110</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>111</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>112</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>113</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>114</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+  <Element>
+    <name>мейтнерий</name>
+    <symbol>Mt</symbol>
+    <number>115</number>
+    <period>7</period>
+    <group>8</group>
+    <subgroup>Б</subgroup>
+    <atomic_mass>266</atomic_mass>
+    <electronic_configuration>5f14 6d7 7s2</electronic_configuration>
+    <element_type>d</element_type>
+    <latin_name>Meitnerium</latin_name>
+    <opening_year>1987</opening_year>
+    <scientists>Г. Мюнценберг</scientists>
+  </Element>
+</Elements>
+
